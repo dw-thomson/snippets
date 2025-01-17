@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#SBATCH --job-name=rclone
+#SBATCH --output=tar.log
+
+#set -e
+#set -o pipefail
+
+echo "taring"
+cd /cancer/storage/SAGC/projects/SAGCQA0636-3_DavidCunliffe_06062023
+tar -czvf /cancer/storage/SAGC/projects/SAGCQA0636-3_DavidCunliffe_06062023
+
+#echo "rclone"
+#rclone copy --transfers 36 --progress --checksum --checkers 48 --timeout 0 cutadapt_extraA.tar.gz SAGC_CloudStor:Shared/Dan/SAGCQA0545_F350003831/
+
+echo "finished"
+##decompress with tar -xvf fastqs.tar.gz

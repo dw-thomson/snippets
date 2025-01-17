@@ -1,0 +1,1 @@
+tar -cvf - 22CF3CLT3/ | rclone rcat CloudStor:/Shared/SAGC/SAGCQA0683/22CF3CLT3_spaceranger_output.tar

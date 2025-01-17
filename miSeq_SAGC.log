@@ -1,0 +1,131 @@
+run name =  SAGCQA0818_HayleyParksinson_20112023
+run ID =  403405999
+baseDir= /cancer/storage/SAGC/BS/miSeq_SAGC/SAGCQA0818_HayleyParksinson_20112023
+Started analysis of 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 5% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 10% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 15% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 20% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 25% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 30% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 35% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 40% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 45% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 50% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 55% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 60% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 65% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 70% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 75% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 80% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 85% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 90% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Approx 95% complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Analysis complete for 1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+Started analysis of 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 5% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 10% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 15% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 20% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 25% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 30% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 35% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 40% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 45% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 50% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 55% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 60% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 65% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 70% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 75% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 80% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 85% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 90% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Approx 95% complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Analysis complete for 2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+Started analysis of 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 5% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 10% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 15% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 20% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 25% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 30% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 35% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 40% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 45% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 50% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 55% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 60% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 65% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 70% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 75% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 80% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 85% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 90% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Approx 95% complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Analysis complete for 3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+Started analysis of 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 5% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 10% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 15% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 20% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 25% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 30% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 35% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 40% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 45% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 50% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 55% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 60% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 65% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 70% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 75% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 80% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 85% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 90% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Approx 95% complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Analysis complete for 4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+Started analysis of SAGC-Negative_S5_L001_R1_001.fastq.gz
+Analysis complete for SAGC-Negative_S5_L001_R1_001.fastq.gz
+[WARNING]         multiqc : MultiQC Version v1.17 now available!
+[INFO   ]         multiqc : This is MultiQC v1.9
+[INFO   ]         multiqc : Template    : default
+[INFO   ]         multiqc : Searching   : /hpc/capacity/SAGC/BS/miSeq_SAGC/SAGCQA0818_HayleyParksinson_20112023/fastq
+##### ERROR! MatPlotLib library could not be loaded!    #####
+##### Flat plots will instead be plotted as interactive #####
+##### ERROR! MatPlotLib library could not be loaded!    #####
+##### Flat plots will instead be plotted as interactive #####
+[INFO   ]          fastqc : Found 5 reports
+[INFO   ]         multiqc : Compressing plot data
+[INFO   ]         multiqc : Report      : multiqc_report.html
+[INFO   ]         multiqc : Data        : multiqc_data
+[INFO   ]         multiqc : MultiQC complete
+cannot import name '_imaging'
+cannot import name '_imaging'
+fastq/
+fastq/1-secondary-library-2-PCR-clean_S1_L001_R1_001.fastq.gz
+fastq/3-OPM2-cas9-sgRNA-2-PCR-clean_S3_L001_R1_001.fastq.gz
+fastq/SAGC-Negative_S5_L001_R1_001.fastq.gz
+fastq/4-OPM2-cas9-sgRNA-2-PCR-clean_S4_L001_R1_001.fastq.gz
+fastq/2-OPM2-cas9-sgRNA-2-PCR-clean_S2_L001_R1_001.fastq.gz
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+/cm/local/apps/slurm/var/spool/job73688/slurm_script: line 80: rclone: command not found
+finished

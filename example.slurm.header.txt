@@ -1,0 +1,39 @@
+#!/bin/bash
+
+#SBATCH —job-name=“MyJobName”
+
+### Join queuing system output and error files into a single output file
+
+#By default, standard output and error are joined together
+
+### Send email to user when job ends or aborts
+
+#SBATCH —mail-type=ALL
+
+### email address for user
+
+### Queue name that job is submitted to
+
+#No queue needs to be specified
+
+### Request nodes NB THIS IS REQUIRED
+
+#SBATCH —nodes=1
+
+#SBATCH —ntasks=Y
+
+#SBATCH —mem=XG
+
+#SBATCH —output=output_file_for_job.out #SBATCH —time=Days-HH:MM:SS
+
+# SLURM Environment variables
+
+#env | grep SLURM
+
+#Load module(s) if required
+
+# No module load required for SAHMRI’s cluster
+
+# Run the executable
+
+MyProgram+Arguments

@@ -1,0 +1,41 @@
+taring
+tar (child): V350117804.tar.gz: Cannot open: Permission denied
+tar (child): Error is not recoverable: exiting now
+V350117804/
+V350117804/checksum.md5
+V350117804/demultiplexing_reports/
+V350117804/demultiplexing_reports/SAGCQA0604_V350117804.all.mgikit.info
+V350117804/demultiplexing_reports/SAGCQA0604_V350117804.all.mgikit.general
+tar: V350117804.tar.gz: Cannot write: Broken pipe
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+
+2023-06-20 10:16:20 ERROR : : error reading source directory: directory not found
+Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Elapsed time:         0.4s
+2023-06-20 10:16:20 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         0.5s
+2023-06-20 10:16:20 ERROR : : error reading source directory: directory not found
+Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Elapsed time:         0.7sTransferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         0.8s
+2023-06-20 10:16:20 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         0.8s
+2023-06-20 10:16:21 ERROR : : error reading source directory: directory not found
+Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Elapsed time:         1.0s
+2023-06-20 10:16:21 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         1.1sTransferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         1.3sTransferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         1.3s
+2023/06/20 10:16:21 Failed to copy: directory not found
+finished
